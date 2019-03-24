@@ -1,5 +1,5 @@
-#ifndef GRAF2_H_INCLUDED
-#define GRAF2_H_INCLUDED
+#ifndef GRAF_H_INCLUDED
+#define GRAF_H_INCLUDED
 #include <iostream>
 #include <exception>
 #include <stdexcept>
@@ -39,4 +39,4 @@ class Graf
  };
 
 
-#endif // GRAF2_H_INCLUDED
+#endif // GRAF_H_INCLUDED
