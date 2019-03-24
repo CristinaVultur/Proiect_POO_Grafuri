@@ -17,7 +17,6 @@ class Graf
                 delete []matrice[i];
             delete []matrice;//stregem vectorul de pinteri si cel de vecini
             nrnoduri=nrmuchii=0;
-            cout<<"Distrugerea obiectului";
             }
         friend ostream& operator<<(ostream &,const Graf &);
         friend istream& operator>>(istream&,Graf &);
